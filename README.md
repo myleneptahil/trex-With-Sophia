@@ -1,1 +1,1 @@
-# trex-With-Sophia
+# Trex-Game
